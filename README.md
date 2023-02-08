@@ -1,4 +1,8 @@
 ## Tweeter Dispatcher Bot Process Flow
+``````
+ - This bot get data from the user
+ - Process it and adds it to the Orchestrator Queue
+``````
 <img style="float: right;" src="Assets/dispatcher_main.PNG" alt="process flow" />
 
 ## Sample Data
