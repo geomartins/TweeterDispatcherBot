@@ -2,6 +2,8 @@
 ``````
  - This bot get data from the user
  - Process it and adds it to the Orchestrator Queue
+ - Proccessed Data would be automatically added to the Archive Sheet in Excel
+ 
 ``````
 <img style="float: right;" src="Assets/dispatcher_main.PNG" alt="process flow" />
 
